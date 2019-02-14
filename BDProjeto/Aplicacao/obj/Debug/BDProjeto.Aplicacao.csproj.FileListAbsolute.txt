@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\bin\Debug\Dominio.dll
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\bin\Debug\Repositorio.dll
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\bin\Debug\Dominio.pdb
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\bin\Debug\Repositorio.pdb
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\obj\Debug\BDProjeto.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\obj\Debug\BDProjeto.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\leona\source\repos\BDProjeto\Aplicacao\obj\Debug\Aplicacao.pdb

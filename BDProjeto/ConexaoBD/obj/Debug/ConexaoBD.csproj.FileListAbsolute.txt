@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.csprojResolveAssemblyReference.cache
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.pdb
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\Repositorio.dll
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\Repositorio.pdb
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\Aplicacao.dll
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\Dominio.dll
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\Aplicacao.pdb
+C:\Users\leona\source\repos\BDProjeto\ConexaoBD\bin\Debug\Dominio.pdb

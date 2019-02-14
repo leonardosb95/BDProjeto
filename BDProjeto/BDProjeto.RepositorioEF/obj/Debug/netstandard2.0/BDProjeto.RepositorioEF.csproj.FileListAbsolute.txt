@@ -1,0 +1,6 @@
+C:\Users\leona\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\netstandard2.0\BDProjeto.RepositorioEF.deps.json
+C:\Users\leona\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\netstandard2.0\BDProjeto.RepositorioEF.dll
+C:\Users\leona\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\netstandard2.0\BDProjeto.RepositorioEF.csprojResolveAssemblyReference.cache
+C:\Users\leona\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\netstandard2.0\BDProjeto.RepositorioEF.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\netstandard2.0\BDProjeto.RepositorioEF.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\netstandard2.0\BDProjeto.RepositorioEF.AssemblyInfo.cs
